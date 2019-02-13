@@ -8,7 +8,7 @@ Funterest, a clone of Pinterest, built using React, Redux and Express. By the en
 
 # Implementation Timeline
 
-## Phase 1: Homepage (3 days)
+## Phase 1: Homepage (4 days)
 `Objective:`
 1. Backend: Create queries and routes for pins 
 2. Frontend: Display pins on to homepage and save a pin 
@@ -31,7 +31,7 @@ Funterest, a clone of Pinterest, built using React, Redux and Express. By the en
 1. Backend: Create queries and routes for pins
 2. Frontend: Display all the pins (edit pin)
 
-## Phase 5: Styling, Testing, Polishing (3 days)
+## Phase 5: Styling, Testing, Polishing (4 days)
 `Objective:`
 1. Frontend: CSS
 2. Test for bugs & edgecases 
